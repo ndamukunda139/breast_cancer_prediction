@@ -9,3 +9,4 @@ xgboost
 plotly
 Pillow
 streamlit-shap
+statsmodels
